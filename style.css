@@ -95,3 +95,7 @@ a{
 	margin-top: 0.5%;
 }
 
+.item-link {
+    color: #A1A1A1;
+    text-decoration: underline;
+}
