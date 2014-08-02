@@ -31,6 +31,12 @@ a{
 	margin-top: -2%;
 	float: left;
 }
+.profile-pic{
+	max-height: 250px;
+	max-width: 250px;
+	height: auto;
+	width: auto;
+}
 .header{
 	z-index: 1;
 	position: fixed;
@@ -61,10 +67,10 @@ a{
 }
 
 .items{
-	margin-top: 180px;
-	margin-left: 330px;
-	margin-right: 330px;
-	margin-bottom: 50px;
+	margin-top: 13%;
+	margin-left: 22%;
+	margin-right: 22%;
+	margin-bottom: 4%;
 	float: left;
 }
 
