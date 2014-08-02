@@ -96,6 +96,10 @@ a{
 }
 
 .item-link {
-    color: #A1A1A1;
-    text-decoration: underline;
+  color: #A1A1A1;
+  text-decoration: underline;
+}
+
+.icon-links {
+	max-height: 30px;
 }
