@@ -4,14 +4,17 @@ body{
 	background-repeat:repeat;
 	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
 }
+
 img{
 	display:inline;
 }
+
 a{
 	color:white;
 	text-decoration:none;
 
 }
+
 .header-carpet{
 	background-image:url('texture.png');
 	background-repeat:repeat;
@@ -21,6 +24,7 @@ a{
 	position: fixed;
 	z-index: 1;
 }
+
 .perfil{
 	margin: 40px;
 	padding: 5px;
@@ -31,12 +35,15 @@ a{
 	margin-top: -2%;
 	float: left;
 }
+
+
 .profile-pic{
 	max-height: 250px;
 	max-width: 250px;
 	height: auto;
 	width: auto;
 }
+
 .header{
 	z-index: 1;
 	position: fixed;
@@ -67,10 +74,10 @@ a{
 }
 
 .items{
-	margin-top: 13%;
-	margin-left: 22%;
-	margin-right: 22%;
-	margin-bottom: 4%;
+	margin-top: 180px;
+	margin-left: 330px;
+	margin-right: 330px;
+	margin-bottom: 50px;
 	float: left;
 }
 
