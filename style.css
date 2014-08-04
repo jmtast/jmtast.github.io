@@ -116,4 +116,12 @@ a{
 
 .icon-links {
 	max-height: 30px;
+	opacity: 0.4;
+  filter: alpha(opacity=40); /* For IE8 and earlier */
+}
+
+.icon-links:hover {
+		max-height: 30px;
+    opacity: 1.0;
+    filter: alpha(opacity=100); /* For IE8 and earlier */
 }
